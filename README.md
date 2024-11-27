@@ -25,7 +25,5 @@ Google Cloud: Plataforma em nuvem utilizada para hospedar e escalar aplicações
  **Observações:**
 
 Este é o meu primeiro repositório público! Espero que o conteúdo seja didático e fácil de entender.  
-Agradeço qualquer feedback que possa ajudar a melhorar este projeto.
+Agradeço qualquer feedback que possa ajudar a melhorar este projeto.  
 
-
-#Imersao-Back-End-Google-Gemini #imersaoalura #backend #nodejs #mongodb #googlegemini
